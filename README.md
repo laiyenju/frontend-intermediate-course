@@ -15,6 +15,8 @@
 | 9. 節省 Request 的極致：一為全，全為一 | 6/13 | 	[hw9](https://github.com/aszx87410/frontend-intermediate-course/blob/master/homeworks/hw9.md) | 
 | 10. 改掉你的壞習慣：ESLint 與 standard | 	6/20 | [hw10](https://github.com/aszx87410/frontend-intermediate-course/blob/master/homeworks/hw10.md) | 
 
+---
+
 ### 1. 基本 HTML/CSS 練習：以 Twitch 為例
 
 - [Demo](https://codepen.io/laiyenju/pen/dyYQLjY )
