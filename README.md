@@ -19,12 +19,15 @@
 
 ### 1. 基本 HTML/CSS 練習：以 Twitch 為例
 
-- [Demo](https://codepen.io/laiyenju/pen/dyYQLjY )
+- [Demo](https://codepen.io/laiyenju/pen/dyYQLjY)
 - ✏️ 心得紀錄：[終於了解 css position 在幹嘛，以及讓人愛不釋手的 css flexbox](https://github.com/laiyenju/lidemy-fe210-hw/tree/master/fe210-hw1)
 
 ---
 
 ### 2. 讓畫面變得更動態：神奇的 CSS transition
+
+- [Demo](https://codepen.io/laiyenju/pen/eYpqbJX)
+- ✏️ 心得紀錄：[如何不讓頁面跑起來卡卡](https://github.com/laiyenju/frontend-intermediate-course/tree/master/answers/hw2)
 
 ---
 
